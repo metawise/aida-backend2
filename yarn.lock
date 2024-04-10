@@ -321,7 +321,7 @@ agentkeepalive@^4.2.1:
   dependencies:
     humanize-ms "^1.2.1"
 
-ai@^3.0.20:
+ai@^3.0.19:
   version "3.0.20"
   resolved "https://registry.yarnpkg.com/ai/-/ai-3.0.20.tgz#47bfc0341ff944f46bd17da7f0d851c836f4465b"
   integrity sha512-W5J7lNrqxBA5aQmWEV4V5AtEE3yGRMQ9l4kipIXeS3+RTds1V3cgmKjQwgASPS5Jn/9IgrUEER/Est0V1rU/NA==
